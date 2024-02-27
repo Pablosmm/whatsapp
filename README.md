@@ -13,6 +13,8 @@ WhatsApp 注册 (API) 新工具可仅使用连接到我们服务器的标准 PC 
 Telegram @phoenixsoftceo
 https://phoenixsoft.dev
 
+https://youtu.be/NX_5gCjoITM?si=L2TRovvnD-AXjdto
+
 Phoenix Wreger 2024 
 WhatsApp register (API) new tool to generate WhatsApp 6-stage type accounts (hash) using only standart PC that connects to our Server that will generate the ios push token for making quality accounts.
 Our software can run 100 threads and can run multiple geo and multiple sms services.
@@ -23,3 +25,5 @@ Just need to set the settings and add good proxy with rotation.
 
 Telegram @phoenixsoftceo
 https://phoenixsoft.dev
+
+https://youtu.be/NX_5gCjoITM?si=L2TRovvnD-AXjdto
